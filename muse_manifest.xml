@@ -1,0 +1,267 @@
+<manifest alg="2" build="2017.0.2.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="BryceSteez.github.io" resolutions="1x" timestamp="1496529763186">
+  <folder name="css">
+    <file name="site_global.css" crc="408090350"/>
+    <file name="master_a-master.css" crc="492965257" ref="index:works"/>
+    <file name="index.css" crc="185199994" ref="index"/>
+    <file name="iefonts_index.css" crc="32940159" ref="index"/>
+    <file name="works.css" crc="3910228671" ref="works"/>
+    <file name="iefonts_works.css" crc="4259884946" ref="works"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:works"/>
+    <file name="museutils.js" crc="4232573551" ref="index:works"/>
+    <file name="whatinput.js" crc="86476730" ref="index:works"/>
+    <file name="museconfig.js" crc="4152223963" ref="index:works"/>
+    <file name="webpro.js" crc="3770351119" ref="index:works"/>
+    <file name="musewpslideshow.js" crc="4244742588" ref="index:works"/>
+    <file name="jquery.museoverlay.js" crc="432750910" ref="index:works"/>
+    <file name="touchswipe.js" crc="3912873526" ref="index:works"/>
+    <file name="jquery.watch.js" crc="3844535323" ref="index:works"/>
+    <file name="form_check.php" crc="3841221102" ref="index"/>
+    <file name="form_throttle.php" crc="4048049783" ref="index"/>
+    <file name="form_process.php" crc="3899230280" ref="index"/>
+    <file name="form-u1129.php" crc="355239167" ref="index"/>
+    <file name="require.js" crc="4234670167" ref="index:works"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="3880853905" ref="works"/>
+  </folder>
+  <folder name="images">
+    <file name="chalkboard underage.jpg" crc="129225493" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="blank.gif" crc="4208392903" ref="index:works"/>
+    <file name="dystopia.jpg" crc="3824790736" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="gorrilla_strong.jpg" crc="4008894425" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="kendama pic.jpg" crc="3861469381" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="screen shot 2015-10-13 at 85134 am.jpg" crc="103954630" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="screen shot 2017-03-22 at 95016 am.jpg" crc="3763345331" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="screen shot 2017-06-01 at 33110 pm.jpg" crc="102918404" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="screen shot 2017-06-01 at 33917 pm.jpg" crc="440578512" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="screen shot 2017-06-01 at 34225 pm.jpg" crc="3977337234" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="screen shot 2017-06-01 at 35859 pm.jpg" crc="146937376" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="screen shot 2017-06-01 at 45149 pm.jpg" crc="36365366" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="screen shot 2017-06-01 at 50723 pm.jpg" crc="3929775816" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="screen shot 2017-06-01 at 51121 pm.jpg" crc="127969754" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="screen shot 2017-06-01 at 52817 pm.jpg" crc="181842236" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="loading.gif" crc="3815509949" ref="index:works"/>
+    <file name="u106_states.png" crc="145548465" ref="index:works"/>
+    <file name="u106_states-r.png" crc="331365691" ref="index:works"/>
+    <file name="u111-4.png" crc="4064714072" ref="index:works"/>
+    <file name="u115-4.png" crc="64000169" ref="index:works"/>
+    <file name="u129-4.png" crc="3981694630" ref="index:works"/>
+    <file name="u118-4.png" crc="334840261" ref="index:works"/>
+    <file name="u461-5.png" crc="13461371" ref="index"/>
+    <file name="gpu01-shopping cart.png" crc="409400591" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="gpu01-print.png" crc="33817681" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="gpu01-link.png" crc="221292623" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u1230-4.png" crc="3960170330" ref="index"/>
+    <file name="fuse.png" crc="228751881" seo="true" ref="index:works">
+      <caption webpage="index" alt=""/>
+      <caption webpage="works" alt=""/>
+    </file>
+    <file name="restaurant2-u1316-fr.png" crc="371866880" ref="works"/>
+    <file name="screen shot 2017-06-01 at 52955 pm-u1316-fr.png" crc="160618178" ref="works"/>
+    <file name="arrow_wh.png" crc="22224643" seo="true" ref="works">
+      <caption webpage="works" alt=""/>
+      <caption webpage="works" alt=""/>
+      <caption webpage="works" alt=""/>
+      <caption webpage="works" alt=""/>
+      <caption webpage="works" alt=""/>
+      <caption webpage="works" alt=""/>
+      <caption webpage="works" alt=""/>
+      <caption webpage="works" alt=""/>
+      <caption webpage="works" alt=""/>
+      <caption webpage="works" alt=""/>
+      <caption webpage="works" alt=""/>
+      <caption webpage="works" alt=""/>
+      <caption webpage="works" alt=""/>
+      <caption webpage="works" alt=""/>
+    </file>
+    <file name="stuffz-u1323-fr.png" crc="127853369" ref="works"/>
+    <file name="screen shot 2017-06-01 at 34225 pm-u1309-fr.png" crc="3807203977" ref="works"/>
+    <file name="flying_bryce-u1795-fr.png" crc="83746221" ref="works"/>
+    <file name="kendama pic-u1994-fr.png" crc="304482587" ref="works"/>
+    <file name="bryce_nass_submission-u2067-fr.png" crc="3994636645" ref="works"/>
+    <file name="screen shot 2017-06-01 at 35859 pm-u2122-fr.png" crc="3804693901" ref="works"/>
+    <file name="screen shot 2017-06-01 at 34720 pm-u2166-fr.png" crc="216998808" ref="works"/>
+    <file name="screen shot 2017-06-01 at 34504 pm-u2212-fr.png" crc="4220047365" ref="works"/>
+    <file name="screen shot 2017-03-22 at 95016 am-u2267-fr.png" crc="4038655667" ref="works"/>
+    <file name="chalkboard underage-u2317-fr.png" crc="278327628" ref="works"/>
+    <file name="gorrilla_strong-u2367-fr.png" crc="49821336" ref="works"/>
+    <file name="screen shot 2017-06-01 at 51121 pm-u2423-fr.png" crc="4189320937" ref="works"/>
+    <file name="screen shot 2017-06-01 at 33110 pm-u2446-fr.png" crc="367971306" ref="works"/>
+    <file name="sure-u1330-fr.png" crc="230736289" ref="works"/>
+    <file name="screen shot 2017-06-01 at 52955 pm-crop-u3072.png" crc="405941105" seo="true" ref="works">
+      <caption webpage="works" alt=""/>
+    </file>
+    <file name="screen shot 2017-06-02 at 41535 pm.jpg" crc="192354328" seo="true" ref="works">
+      <caption webpage="works" alt=""/>
+    </file>
+    <file name="screen shot 2017-06-01 at 50723 pm-u1349-fr.jpg" crc="409672819" ref="works"/>
+    <file name="stuffz-u1348-fr.jpg" crc="3943125198" ref="works"/>
+    <file name="restaurant1-u1351-fr.png" crc="524340780" ref="works"/>
+    <file name="screen shot 2017-06-01 at 50723 pm-u1351-fr.png" crc="85534000" ref="works"/>
+    <file name="screen shot 2017-06-01 at 50723 pm-u1351-a-fr.jpg" crc="259254563" ref="works"/>
+    <file name="stuffz-u1352-fr.png" crc="184034755" ref="works"/>
+    <file name="screen shot 2017-06-01 at 34225 pm-u1398-fr.jpg" crc="3831336671" ref="works"/>
+    <file name="street_view2-u1403-fr.png" crc="3893309114" ref="works"/>
+    <file name="screen shot 2017-06-01 at 34225 pm-u1403-a-fr.jpg" crc="57245820" ref="works"/>
+    <file name="flying_bryce-crop-u2619.png" crc="3794282830" seo="true" ref="works">
+      <caption webpage="works" alt=""/>
+    </file>
+    <file name="screen shot 2017-06-01 at 34347 pm.jpg" crc="3959805714" seo="true" ref="works">
+      <caption webpage="works" alt=""/>
+    </file>
+    <file name="screen shot 2017-06-01 at 34333 pm.jpg" crc="4003558286" seo="true" ref="works">
+      <caption webpage="works" alt=""/>
+    </file>
+    <file name="sure690x460.jpg" crc="533527695" seo="true" ref="works">
+      <caption webpage="works" alt=""/>
+    </file>
+    <file name="kendama pic-crop-u2831.jpg" crc="374046398" seo="true" ref="works">
+      <caption webpage="works" alt=""/>
+    </file>
+    <file name="screen shot 2017-06-02 at 50149 pm-crop-u2944.jpg" crc="3770859799" seo="true" ref="works">
+      <caption webpage="works" alt=""/>
+    </file>
+    <file name="screen shot 2017-06-02 at 50120 pm-crop-u2970.jpg" crc="3874697991" seo="true" ref="works">
+      <caption webpage="works" alt=""/>
+    </file>
+    <file name="screen shot 2015-06-20 at 31120 pm-crop-u2996.jpg" crc="3903495527" seo="true" ref="works">
+      <caption webpage="works" alt=""/>
+    </file>
+    <file name="img_5816.jpg" crc="4260914403" seo="true" ref="works">
+      <caption webpage="works" alt=""/>
+    </file>
+    <file name="bryce_nass_submission.png" crc="4212583829" seo="true" ref="works">
+      <caption webpage="works" alt=""/>
+    </file>
+    <file name="screen shot 2017-06-02 at 60339 pm.jpg" crc="4068587994" seo="true" ref="works">
+      <caption webpage="works" alt=""/>
+    </file>
+    <file name="screen shot 2017-06-02 at 60301 pm.jpg" crc="369541412" seo="true" ref="works">
+      <caption webpage="works" alt=""/>
+    </file>
+    <file name="screen shot 2017-06-02 at 60255 pm.jpg" crc="319072565" seo="true" ref="works">
+      <caption webpage="works" alt=""/>
+    </file>
+    <file name="screen shot 2017-06-01 at 45149 pm2.jpg" crc="4181286384" seo="true" ref="works">
+      <caption webpage="works" alt=""/>
+    </file>
+    <file name="screen shot 2017-06-01 at 35859 pm2.jpg" crc="3985646616" seo="true" ref="works">
+      <caption webpage="works" alt=""/>
+    </file>
+    <file name="screen shot 2017-06-01 at 34919 pm.jpg" crc="520727983" seo="true" ref="works">
+      <caption webpage="works" alt=""/>
+    </file>
+    <file name="screen shot 2017-06-02 at 54531 pm.jpg" crc="4226226662" seo="true" ref="works">
+      <caption webpage="works" alt=""/>
+    </file>
+    <file name="screen shot 2017-06-02 at 54522 pm.jpg" crc="4199055819" seo="true" ref="works">
+      <caption webpage="works" alt=""/>
+    </file>
+    <file name="screen shot 2017-06-02 at 54516 pm.jpg" crc="3760831936" seo="true" ref="works">
+      <caption webpage="works" alt=""/>
+    </file>
+    <file name="screen shot 2017-06-02 at 54402 pm.jpg" crc="4224501871" seo="true" ref="works">
+      <caption webpage="works" alt=""/>
+    </file>
+    <file name="screen shot 2017-06-02 at 54354 pm.jpg" crc="139343588" seo="true" ref="works">
+      <caption webpage="works" alt=""/>
+    </file>
+    <file name="screen shot 2017-06-02 at 54340 pm.jpg" crc="250828093" seo="true" ref="works">
+      <caption webpage="works" alt=""/>
+    </file>
+    <file name="screen shot 2017-06-02 at 54330 pm.jpg" crc="485949651" seo="true" ref="works">
+      <caption webpage="works" alt=""/>
+    </file>
+    <file name="screen shot 2017-06-02 at 54319 pm.jpg" crc="4059297016" seo="true" ref="works">
+      <caption webpage="works" alt=""/>
+    </file>
+    <file name="screen shot 2017-06-02 at 54310 pm.jpg" crc="3822763988" seo="true" ref="works">
+      <caption webpage="works" alt=""/>
+    </file>
+    <file name="screen shot 2017-06-02 at 61012 pm.jpg" crc="472881665" seo="true" ref="works">
+      <caption webpage="works" alt=""/>
+    </file>
+    <file name="screen shot 2017-06-02 at 60937 pm.jpg" crc="141910942" seo="true" ref="works">
+      <caption webpage="works" alt=""/>
+    </file>
+    <file name="screen shot 2017-06-02 at 60920 pm.jpg" crc="416896534" seo="true" ref="works">
+      <caption webpage="works" alt=""/>
+    </file>
+    <file name="screen shot 2017-03-22 at 95016 am667x474.jpg" crc="3971304307" seo="true" ref="works">
+      <caption webpage="works" alt=""/>
+    </file>
+    <file name="screen shot 2017-06-03 at 75321 am.jpg" crc="4067823690" seo="true" ref="works">
+      <caption webpage="works" alt=""/>
+    </file>
+    <file name="screen shot 2017-06-03 at 75244 am.jpg" crc="74218296" seo="true" ref="works">
+      <caption webpage="works" alt=""/>
+    </file>
+    <file name="chalkboard underage470x338.jpg" crc="126822440" seo="true" ref="works">
+      <caption webpage="works" alt=""/>
+    </file>
+    <file name="gorrilla_strong787x310.jpg" crc="280026025" seo="true" ref="works">
+      <caption webpage="works" alt=""/>
+    </file>
+    <file name="screen shot 2017-06-01 at 51121 pm678x382.jpg" crc="4164509196" seo="true" ref="works">
+      <caption webpage="works" alt=""/>
+    </file>
+    <file name="screen shot 2017-06-03 at 124635 pm.jpg" crc="3818378066" seo="true" ref="works">
+      <caption webpage="works" alt=""/>
+    </file>
+    <file name="screen shot 2017-06-03 at 124004 pm.jpg" crc="4260816798" seo="true" ref="works">
+      <caption webpage="works" alt=""/>
+    </file>
+    <file name="screen shot 2017-06-03 at 123508 pm.jpg" crc="3888184833" seo="true" ref="works">
+      <caption webpage="works" alt=""/>
+    </file>
+    <file name="screen shot 2017-06-03 at 123452 pm.jpg" crc="7730943" seo="true" ref="works">
+      <caption webpage="works" alt=""/>
+    </file>
+    <file name="screen shot 2017-06-03 at 122517 pm.jpg" crc="449295894" seo="true" ref="works">
+      <caption webpage="works" alt=""/>
+    </file>
+    <file name="screen shot 2017-06-01 at 33110 pm533x285.jpg" crc="4000954552" seo="true" ref="works">
+      <caption webpage="works" alt=""/>
+    </file>
+    <file name="monotone_arrow_next_left-u1414.png" crc="4292545365" ref="works"/>
+    <file name="monotone_arrow_next_left-u1414-r.png" crc="4292545365" ref="works"/>
+    <file name="monotone_arrow_next_right-u1411.png" crc="4231100549" ref="works"/>
+    <file name="monotone_arrow_next_right-u1411-r.png" crc="4231100549" ref="works"/>
+  </folder>
+  <file name="index.html" crc="3932246701" seo="true" mt="1496529339010" redirect="true"/>
+  <file name="works.html" crc="4043138735" seo="true" mt="1496529559702" redirect="true"/>
+</manifest>
